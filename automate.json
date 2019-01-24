@@ -1,0 +1,12 @@
+{
+  "devices" : [ {
+    "name" : "AC",
+    "status" : true
+  }, {
+    "name" : "LED",
+    "status" : false
+  }, {
+    "name" : "Tubelight",
+    "status" : false
+  } ]
+}
